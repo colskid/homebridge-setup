@@ -17,7 +17,7 @@ This comprehensive guide provides a step-by-step walkthrough to assist you in ut
 
 Before you start, ensure you have the following:
 
-- One of the supported Raspberry Pi Models (I'm using a RPi 4B).
+- One of the supported Raspberry Pi Models (I'm using a RPi-4B 4GB).
 - A 4GB or larger SD card (Class 10 40Mb/s or faster is recommended).
 - A Windows, macOS, or Linux computer with an SD card reader.
 
