@@ -1,5 +1,7 @@
 # Setting up Homebridge on Your Raspberry Pi
 
+![RPi Imager](https://imgur.com/p1eQioJ.png)
+
 This comprehensive guide provides a step-by-step walkthrough to assist you in utilizing the Homebridge Raspberry Pi Image for setting up Homebridge on your device.
 
 - [Prerequisites](#prerequisites)
@@ -15,7 +17,7 @@ This comprehensive guide provides a step-by-step walkthrough to assist you in ut
 
 Before you start, ensure you have the following:
 
-- One of the supported Raspberry Pi Models.
+- One of the supported Raspberry Pi Models (I'm using a RPi 4B).
 - A 4GB or larger SD card (Class 10 40Mb/s or faster is recommended).
 - A Windows, macOS, or Linux computer with an SD card reader.
 
@@ -30,7 +32,7 @@ The Homebridge Raspberry Pi Image is freely available; no sign-up is required. F
    - Choose Storage (select your SD card)
    - Click Next and Write
 
-For advanced users, you can use tools like Etcher or dd by manually [downloading the image from the releases page](https://github.com/homebridge/homebridge-raspbian-image/releases).
+
 
 ## Step 2: Connect To Network
 
