@@ -5,7 +5,7 @@
 This comprehensive guide provides a step-by-step walkthrough to assist you in utilizing the Homebridge Raspberry Pi Image for setting up Homebridge on your device.
 
 - [Prerequisites](#prerequisites)
-- [Step 1: Download and Flash to SD Card](#step-1-download-and-flash-to-sd-card)
+- [Step 1: Download and Flash to Micro SD Card](#step-1-download-and-flash-to-micro-sd-card)
 - [Step 2: Connect To Network](#step-2-connect-to-network)
   - [Ethernet](#ethernet)
   - [WiFi](#wifi)
@@ -21,7 +21,7 @@ Before you start, ensure you have the following:
 - A 4GB or larger SD card (Class 10 40Mb/s or faster is recommended).
 - A Windows, macOS, or Linux computer with an SD card reader.
 
-## Step 1: Download and Flash to SD Card
+## Step 1: Download and Flash to Micro SD Card
 
 The Homebridge Raspberry Pi Image is freely available; no sign-up is required. Follow these steps to flash the image to your SD card using Raspberry Pi Imager:
 
@@ -30,6 +30,7 @@ The Homebridge Raspberry Pi Image is freely available; no sign-up is required. F
    - Choose Device
    - Choose OS (Other specific purpose OS > Home assistants and home automation > Homebridge)
    - Choose Storage (select your SD card)
+   - Click on the “settings” icon. “Enable SSH”, and set a username + password. Remember this username/password for when you will connect to the R-Pi via SSH later.
    - Click Next and Write
 
 
